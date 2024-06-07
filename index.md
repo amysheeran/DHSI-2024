@@ -4,12 +4,12 @@ Welcome to my portfolio site! Here you will find about one and a half things I d
 
 ## Projects
 
-### [Project 1: Bitsy](piaire_menard_REV.html)
+### [Project 1: PiAIre Menard, Author of the Quixote](piaire_menard_REV.html)
 **Description:** A bitsy game about authorship and generative AI, via Borges, via Cervantes.
 
 **Technologies Used:** Bitsy
 
-### [Project 2: Tracery](pierremenard3.html)
+### [Project 2: PiAIre's Quixote](pierremenard3.html)
 **Description:** The scribblings of PiAIre.
 
 ## About Me
